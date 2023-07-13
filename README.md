@@ -2,10 +2,10 @@
 
 This repository contains simple code examples in different programming languages to verify if a number is prime using regular expressions. The repository includes files in the following languages:
 
-1. `RegEx_prime_number.py` - Python implementation.
-2. `RegEx_prime_number.js` - JavaScript implementation.
-3. `RegExPrimeNumber.java` - Java implementation.
-4. `RegEx_prime_number.c` - C implementation.
+1. `RegEx.py` - Python implementation.
+2. `RegEx.js` - JavaScript implementation.
+3. `RegEx.java` - Java implementation.
+4. `RegEx.c` - C implementation.
 
 Each file contains an implementation that uses regular expressions to perform prime number verification.
 
